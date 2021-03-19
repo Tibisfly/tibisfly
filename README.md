@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋🌱
 
-<!--
-**Tibisfly/tibisfly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+````js
 
-Here are some ideas to get you started:
+const tibisfly = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Python, Flask],
+  tools: [React, Redux, Node, reactstrap, Bootstrap, Figma],
+  about_tibi: {
+                        habilities: "Full-stack"
+                        hobbies: "send postcards",
+                        activities: ["Yoga", "Crossfit"],
+                        goals: "Be present"
+                      },
+ challenge: "Never stop learning"
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
