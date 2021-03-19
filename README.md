@@ -1,6 +1,5 @@
-# Welcome to my Github <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="80px">
-
-
+# Welcome to my Github<img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="80px">
+<p><em>Full Stack Developer at<a href="https://4geeksacademy.com/es/inicio">4Geeks Academy - Spain </a><img src="https://media.giphy.com/media/hvpsszdCV8XXGyymxu/giphy.gif" width="40"></br>Thanks for being here where you'll be able to find the evolution of all my projects since I started my professional reinvention by becoming a developer. </em></p>
 
 
 ### <img src="https://media.giphy.com/media/LSRQac4aKmgkN5orrL/giphy.gif" width="80"> Living my artistics skills while coding. Love to create, right now in back and front-end. 
@@ -24,3 +23,7 @@ const tibisfly = {
 }
 
 ````
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/tibisfly/github-readme-stats)
+[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=tibisfly&show_icons=true&count_private=true)](https://github.com/tibisfly)
