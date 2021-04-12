@@ -2,7 +2,7 @@
 <p><em>Teacher Assistant at <a href="https://4geeksacademy.com/es/inicio">4Geeks Academy - Spain </a><img src="https://media.giphy.com/media/hvpsszdCV8XXGyymxu/giphy.gif" width="40"> Associate Consultant at <a href="https://www.bosonit.com/">Bosonit </a><img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="40"></br>Thanks for being here where you'll be able to find the evolution of all my projects since I started my professional reinvention by becoming a developer. </em></p>
 
 
-### <img src="https://media.giphy.com/media/LSRQac4aKmgkN5orrL/giphy.gif" width="80"> Living my artistics skills while coding. Love to create, right now in back and front-end. 
+### <img src="https://media.giphy.com/media/LSRQac4aKmgkN5orrL/giphy.gif" width="80"> Living my artistics skills while coding. Love to create, right now in front-end. 
 ### <img src="https://media.giphy.com/media/4WETTd8B4aJb2GsEU2/giphy.gif" width="80"> Why do I love Javascript? Because I love movement.
 ### <img src="https://media.giphy.com/media/ftZOJlcuxEkWNxvopw/giphy.gif" width="80"> Enjoy way to much back-end as a control organized freak. 
 ### <img src="https://media.giphy.com/media/KecxjcMkYhlfoRCDJx/giphy.gif" width="80"> Former dentist, as a developer I can send you to your dental cleaning when you need it.
