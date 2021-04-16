@@ -14,7 +14,7 @@ const tibisfly = {
   code: ["Javascript", "HTML", "CSS", "Python", "Flask"],
   tools: ["React", "Redux", "Reactstrap", "Bootstrap", "Figma"],
   about_tibi: {
-    abilities: "Full-stack"
+    abilities: "Full-stack",
     hobbies: "send postcards",
     activities: ["Yoga", "Crossfit"],
     goals: "Be present"
